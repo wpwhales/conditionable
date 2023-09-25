@@ -1,5 +1,5 @@
 {
-    "name": "illuminate/conditionable",
+    "name": "wpwhales/conditionable",
     "description": "The Illuminate Conditionable package.",
     "license": "MIT",
     "homepage": "https://laravel.com",
@@ -18,7 +18,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Illuminate\\Support\\": ""
+            "WPWhales\\Support\\": ""
         }
     },
     "extra": {
